@@ -1,0 +1,16 @@
+references:
+  - "https://en.wikipedia.org/wiki/Suzuki_Vitara"
+
+generations:
+  - name: "Second Generation (FT/GT)"
+    start_year: 1998
+    end_year: 2005
+    description: "With 1.6 L to 2.7 L gasoline engines and Mazda and Renault diesels."
+  - name: "Third Generation (JT)"
+    start_year: 2005
+    end_year: 2015
+    description: "A unibody body with a built-in ladder frame, 2.0 L to 3.2 L engines and full-time four-wheel drive."
+  - name: "Grand Vitara (India)"
+    start_year: 2022
+    end_year: null
+    description: "A compact SUV built with Toyota alongside the Urban Cruiser Hyryder, with mild and strong hybrids."
